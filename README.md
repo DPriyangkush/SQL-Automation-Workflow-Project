@@ -93,7 +93,7 @@ chmod +x run_all.sh
 ![MySQL Workbench connection to Docker MySQL (127.0.0.1, port 3306)](assets/Connection-Screen.png)
 
 ### 2. SHOW DATABASES
-![Output showing sql_workflow database](assets/Show-Databases-screen.png)
+![Output showing sql_workflow database](assets/Show%20Databases%20screen.png)
 
 ### 3. Schema Expanded
 ![Tables, Views, Stored Procedures visible under schema](assets/Schema%20Screen.png.png)
