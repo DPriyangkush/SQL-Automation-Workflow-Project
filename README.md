@@ -96,7 +96,7 @@ chmod +x run_all.sh
 ![Output showing sql_workflow database](assets/Show%20Databases%20screen.png)
 
 ### 3. Schema Expanded
-![Tables, Views, Stored Procedures visible under schema](assets/Schema%20Screen.png.png)
+![Tables, Views, Stored Procedures visible under schema](assets/Schema%20Screen.png)
 
 ### 4. SHOW TABLES
 ![Screenshot showing: customers, accounts, transactions, dq_log](assets/Show%20Tables%20Screen.png)
