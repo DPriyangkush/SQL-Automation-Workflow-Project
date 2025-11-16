@@ -56,7 +56,7 @@ SQL-Data-Workflow-Automation/
 │── error_handling.sql
 │── run_all.sh
 │── assets/
-│   └── screenshots/
+│   └── **All Screenshots**
 ```
 
 ---
