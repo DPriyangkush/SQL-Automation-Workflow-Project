@@ -2,7 +2,7 @@
 
 A complete end-to-end SQL automation project featuring stored procedures, views, CTE-based reports, indexing optimization, error handling, and automated data quality checks.
 
-This project was designed to simulate a real enterprise SQL environment—similar to workflows used in banking, fintech, risk management, and data engineering teams (e.g., HSBC, JPMC, Barclays, Citi).
+This project was designed to simulate a real enterprise SQL environment—similar to workflows used in banking, fintech, risk management, and data engineering teams.
 
 ---
 
