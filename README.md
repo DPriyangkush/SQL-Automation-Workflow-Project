@@ -161,27 +161,6 @@ chmod +x run_all.sh
 
 ---
 
-## 📘 Skills Demonstrated
-
-✅ SQL (T-SQL-like patterns adapted for MySQL)  
-✅ Stored Procedures  
-✅ Views & CTEs  
-✅ Data Quality Framework  
-✅ Performance Optimization  
-✅ Automation (Event Scheduler)  
-✅ Containerized SQL Development (Docker)  
-✅ Enterprise-style data modeling  
-
-### Perfect for roles such as:
-- SQL Developer
-- Data Engineer
-- Consultant Specialist (HSBC)
-- BI Developer
-- ETL Developer
-- Database Engineer
-
----
-
 ## ✨ Author
 
 **Priyangkush Debnath**  
